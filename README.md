@@ -5,4 +5,7 @@ Often at times, bad words as a sole criterion are not that great for identifying
 
 I located the top 10 bad words in the cyberbullying dataset and likewise with the sexual posts dataset. Leveraging PCA and t-SNE we can compare these two algorithms while at the same time explore these bad words. Word2vec (skip-gram) was used for producing the word embeddings.
 
+![simple graph comparing t-SNE and PCA](https://github.com/Kosmos01/offensive-word-exploration/blob/master/t-SNE.PCA.SG.png)
+
+
 NOTE: Words found in the visualization are highly inappropriate
